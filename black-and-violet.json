@@ -1,0 +1,22 @@
+---
+metatype: json
+---
+
+{
+  "identifier": "io.github.foxonfox.black.and.violet",
+  "name": "Black & Violet",
+  "content_type": "SN|Theme",
+  "area": "themes",
+  "version": "1.2.3",
+  "description": "Almost black backgroung and violet mix",
+  "url": "https://cdn.jsdelivr.net/gh/foxonfox/black-and-violet@master/dist/dist.css",
+  "download_url": "https://github.com/foxonfox/black-and-violet/archive/1.2.3.zip",
+  "latest_url": "https://listed.to/p/1myyw6XaO0",
+  "dock_icon": {
+      "type": "circle",
+      "background_color": "#a464c2",
+      "foreground_color": "#a464c2",
+      "border_color": "#a464c2"
+      },
+      "statusBar": "dark-content"
+}
